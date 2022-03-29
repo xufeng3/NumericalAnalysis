@@ -1,0 +1,5 @@
+D:/dell8/data2022spr/CourseComputationaMathematics/cm_chap2/cm2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/dell8/data2022spr/CourseComputationaMathematics/cm_chap2/cm2/cmake-build-debug/CMakeFiles/cm2.dir
+D:/dell8/data2022spr/CourseComputationaMathematics/cm_chap2/cm2/cmake-build-debug/CMakeFiles/cm3.dir
+D:/dell8/data2022spr/CourseComputationaMathematics/cm_chap2/cm2/cmake-build-debug/CMakeFiles/cm4.dir
+D:/dell8/data2022spr/CourseComputationaMathematics/cm_chap2/cm2/cmake-build-debug/CMakeFiles/edit_cache.dir
