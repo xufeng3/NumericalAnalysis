@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/xufen/CLionProjects/cm3/cmake-build-debug",
-		"source" : "C:/Users/xufen/CLionProjects/cm3"
+		"build" : "D:/dell8/data2022spr/NumericalAnalysis/cm3/cmake-build-debug",
+		"source" : "D:/dell8/data2022spr/NumericalAnalysis/cm3"
 	},
 	"version" : 
 	{

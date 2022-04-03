@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/xufen/CLionProjects/cm3/cmake-build-debug"
+			"value" : "d:/dell8/data2022spr/NumericalAnalysis/cm3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/xufen/CLionProjects/cm3"
+			"value" : "D:/dell8/data2022spr/NumericalAnalysis/cm3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -663,7 +663,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/ninja/win/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2021.3.3/bin/ninja/win/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/xufen/CLionProjects/cm3/cmake-build-debug"
+			"value" : "D:/dell8/data2022spr/NumericalAnalysis/cm3/cmake-build-debug"
 		},
 		{
 			"name" : "cm3_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/xufen/CLionProjects/cm3"
+			"value" : "D:/dell8/data2022spr/NumericalAnalysis/cm3"
 		}
 	],
 	"kind" : "cache",
